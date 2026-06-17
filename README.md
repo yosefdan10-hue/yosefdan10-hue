@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Yosef!
 
 👨‍💻 Software Engineering Student at SCE (Shamoon College of Engineering)  
-🚀 Passionate about **C++**, **Algorithms**, and **Data Structures**  
+🚀 Passionate about **C++**, **Algorithms**, and **Data Structures**  , **python**
 🌱 Currently learning **Git & GitHub**  
 📫 Reach me at: [yosefdan10@gmail.com](mailto:yosefdan10@gmail.com)
 
